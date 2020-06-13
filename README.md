@@ -4,7 +4,7 @@ Simple calendar plugin with plain javascript.
 
 ## Getting Started
 
-Follow the instructions if you want to use this plugin on your local machine
+Follow these instructions if you want to use this plugin on your local machine
 
 ### Installing
   First import these source code into your project
