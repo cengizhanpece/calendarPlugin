@@ -45,6 +45,6 @@ let calendar = new Calendar({
  
  disabledDays: array of disabled days must be [DD, MM, YY] like format and without 0 example: 01/07/2020 = [1,7,2020],
  
- dayNames: refers to shortened day names ( default is turkish names so define for yourself ) 
+ dayNames: refers to shortened day names ( default is turkish ) 
  
 ```
